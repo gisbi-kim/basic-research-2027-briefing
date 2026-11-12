@@ -28,7 +28,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "leader-B",
@@ -60,7 +63,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "core-C",
@@ -92,7 +98,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "core-B",
@@ -124,7 +133,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "core-A",
@@ -156,7 +168,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "leap",
@@ -187,7 +202,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "deep",
@@ -218,7 +236,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "global",
@@ -248,7 +269,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2027년 1월 별도 공고 · 3월 접수 예정"
+    "application": "2027년 1월 별도 공고 · 3월 접수 예정",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "strategy",
@@ -279,7 +303,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "basic-B",
@@ -311,7 +338,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "basic-A",
@@ -343,7 +373,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "young-B",
@@ -374,7 +407,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "young-A",
@@ -404,7 +440,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "regional",
@@ -436,7 +475,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "infra",
@@ -468,7 +510,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "sejong-domestic",
@@ -500,7 +545,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "sejong-return",
@@ -532,7 +580,10 @@
         "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
       }
     ],
-    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "nrl",
@@ -566,7 +617,11 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정",
+    "ministries": [
+      "과기정통부",
+      "교육부"
+    ]
   },
   {
     "id": "frc-x",
@@ -602,7 +657,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "frc-s",
@@ -638,7 +696,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "frc-e",
@@ -674,7 +735,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "frc-m",
@@ -710,7 +774,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "frc-r",
@@ -746,7 +813,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정 · 최초 신규 기준(후속 별도)",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "lab-deep",
@@ -782,7 +852,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "lab-innovation",
@@ -817,7 +890,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정"
+    "application": "2026년 12월 공고 · 2027년 2월 접수 예정 · 정확한 시작일·마감일은 개별 공고 예정",
+    "ministries": [
+      "과기정통부"
+    ]
   },
   {
     "id": "masters",
@@ -845,7 +921,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "doctoral",
@@ -873,7 +952,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "postdoc-kr",
@@ -901,7 +983,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "postdoc-overseas",
@@ -929,7 +1014,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "inclusive",
@@ -957,7 +1045,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "future",
@@ -985,7 +1076,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "protected",
@@ -1013,7 +1107,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "glocal-hub",
@@ -1042,7 +1139,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "glocal-consortium",
@@ -1071,7 +1171,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "glocal-rd",
@@ -1100,7 +1203,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "glamp",
@@ -1128,7 +1234,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "core-center",
@@ -1155,7 +1264,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "share",
@@ -1183,7 +1295,10 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인"
+    "application": "접수 월·날짜 미안내 · 설명회·배포자료에 일정 없음, 별도 공고 확인",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "university-lab",
@@ -1211,7 +1326,10 @@
     ],
     "verified_on": "2026-11-12",
     "application": "신규 모집 없음",
-    "source_note": "사업 분류는 공식 자료 p.56, 계속 과제만 지원한다는 안내는 아래 영상·대본 기준입니다. 금액·기간은 기존 협약에 따릅니다."
+    "source_note": "사업 분류는 공식 자료 p.56, 계속 과제만 지원한다는 안내는 아래 영상·대본 기준입니다. 금액·기간은 기존 협약에 따릅니다.",
+    "ministries": [
+      "교육부"
+    ]
   },
   {
     "id": "integrated",
@@ -1237,6 +1355,9 @@
       }
     ],
     "verified_on": "2026-11-12",
-    "application": "신규 모집 없음"
+    "application": "신규 모집 없음",
+    "ministries": [
+      "교육부"
+    ]
   }
 ]
