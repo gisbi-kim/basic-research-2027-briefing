@@ -6,11 +6,11 @@
     "tag": "리더",
     "who": "대학 이공분야 전임·비전임 교원, 국공립·민간 연구소 연구원",
     "period": "9년 · 5+4",
-    "budget": "연 8억 원 내외",
-    "count": "10개 내외 · 후속 2개 포함",
-    "start": "6월 · 1차년도 9개월",
+    "budget": "연 8억 원 내외 · 직접비 6.4억 원 이내",
+    "count": "10개 내외 · 후속 2개 이내 포함",
+    "start": "6월 1일 · 1차년도 9개월",
     "notes": [
-      "12월 초 접수 → 3~4월 평가 → 6월 개시.",
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
       "PBS 폐지 출연연은 신청 제한. 기존 과제 종료 시점과 다른 과제 병행 조건을 확인해야 합니다.",
       "핵심 연구 또는 도약형 1개와 중복 신청 가능하나 동시 수행은 불가."
     ],
@@ -19,7 +19,16 @@
       "Z04-P04",
       "Z09-P01",
       "Z09-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "leader-B",
@@ -28,11 +37,11 @@
     "tag": "리더",
     "who": "대학 이공분야 전임·비전임 교원, 국공립·민간 연구소 연구원",
     "period": "9년 · 5+4",
-    "budget": "발표자료 확인 필요",
+    "budget": "연 16억 원 내외 · 직접비 12.8억 원 이내",
     "count": "3개 내외",
-    "start": "6월 · 1차년도 9개월",
+    "start": "6월 1일 · 1차년도 9개월",
     "notes": [
-      "12월 초 접수 → 3~4월 평가 → 6월 개시.",
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
       "PBS 폐지 출연연은 신청 제한. 기존 과제 종료 시점과 다른 과제 병행 조건을 확인해야 합니다.",
       "2027년 3단계 진입 예정인 기존 리더 연구자도 신청 가능.",
       "핵심 연구 또는 도약형 1개와 중복 신청 가능하나 동시 수행은 불가."
@@ -42,7 +51,16 @@
       "Z04-P04",
       "Z09-P01",
       "Z09-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "core-C",
@@ -51,11 +69,11 @@
     "tag": "핵심",
     "who": "대학 이공분야 전임·비전임 교원, 국공립·민간 연구소 연구원",
     "period": "1~5년 · 자율 설정",
-    "budget": "연 3억 원 내외",
+    "budget": "연 3억 원 내외 · 직접비 2.4억 원 이내",
     "count": "100개 내외",
     "start": "3월 1일",
     "notes": [
-      "연구자 접수 12월 7일, 주관기관 승인 12월 9일.",
+      "접수: 2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지 (공고 p.9)",
       "평가: 토론 평가.",
       "상반기 미선정 시 하반기 기본 연구·전략형 신청 가능.",
       "PBS 폐지 출연연 신청 제한과 기존 과제 수행 제한을 함께 확인하세요."
@@ -65,7 +83,16 @@
       "Z04-P08",
       "Z08-P02",
       "Z09-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
   },
   {
     "id": "core-B",
@@ -74,11 +101,11 @@
     "tag": "핵심",
     "who": "대학 이공분야 전임·비전임 교원, 국공립·민간 연구소 연구원",
     "period": "1~5년 · 자율 설정",
-    "budget": "연 2억 원 내외",
-    "count": "자막 수치 불명확 · 확인 필요",
+    "budget": "연 2억 원 내외 · 직접비 1.6억 원 이내",
+    "count": "670개 내외",
     "start": "3월 1일",
     "notes": [
-      "연구자 접수 12월 7일, 주관기관 승인 12월 9일.",
+      "접수: 2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지 (공고 p.9)",
       "평가: 온라인 서면 평가.",
       "상반기 미선정 시 하반기 기본 연구·전략형 신청 가능.",
       "PBS 폐지 출연연 신청 제한과 기존 과제 수행 제한을 함께 확인하세요."
@@ -88,7 +115,16 @@
       "Z04-P08",
       "Z08-P02",
       "Z09-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
   },
   {
     "id": "core-A",
@@ -97,11 +133,11 @@
     "tag": "핵심",
     "who": "대학 이공분야 전임·비전임 교원, 국공립·민간 연구소 연구원",
     "period": "1~5년 · 자율 설정",
-    "budget": "연 1억 원 내외",
+    "budget": "연 1억 원 내외 · 직접비 8천만 원 이내",
     "count": "825개 내외",
     "start": "3월 1일",
     "notes": [
-      "연구자 접수 12월 7일, 주관기관 승인 12월 9일.",
+      "접수: 2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지 (공고 p.9)",
       "평가: 온라인 서면 평가.",
       "상반기 미선정 시 하반기 기본 연구·전략형 신청 가능.",
       "PBS 폐지 출연연 신청 제한과 기존 과제 수행 제한을 함께 확인하세요."
@@ -111,7 +147,16 @@
       "Z04-P08",
       "Z08-P02",
       "Z09-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
   },
   {
     "id": "leap",
@@ -120,19 +165,29 @@
     "tag": "후속 연구",
     "who": "핵심 B·C, 신진 B 등 지원 대상 사업의 2027년 종료 예정 연구책임자",
     "period": "3년",
-    "budget": "연 최대 2.5억 원 · 간접비 포함",
-    "count": "대본에 명확한 수치 없음",
-    "start": "3월",
+    "budget": "연 2.5억 원 내외 · 직접비 2억 원 이내",
+    "count": "50개 내외",
+    "start": "3월 1일",
     "notes": [
+      "접수: 2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지 (공고 p.9)",
       "2027년부터 단일 유형으로 통합.",
       "지원 대상 과제가 종료되는 해에 한 차례 신청 가능. 2026년 종료자는 2027년 도약형 신청 불가.",
-      "연구자 접수 12월 7일, 기관 승인 12월 9일."
+      "연구비는 연 2.5억 원 내외이며 직접비 2억 원 이내. (공고 p.2)"
     ],
     "refs": [
       "Z03-P03",
       "Z09-P02",
       "Z04-P08"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.7. 18:00 · 기관 승인 12.9. 18:00까지"
   },
   {
     "id": "deep",
@@ -141,10 +196,11 @@
     "tag": "장기 연구",
     "who": "박사학위 취득 후 15년 이내 대학 교원·국공립 및 민간 연구소 연구원",
     "period": "10년 · 5+5",
-    "budget": "연 2억 원 내외",
+    "budget": "연 2억 원 내외 · 직접비 1.6억 원 이내",
     "count": "40개 내외",
-    "start": "3월",
+    "start": "3월 1일",
     "notes": [
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
       "대학 비정규직 연구원·박사후연구원도 신청 가능.",
       "과기정통부 기존 개인 과제는 종료 시기와 관계없이 신청 가능하다고 안내. 교육부 과제는 별도 종료 요건 적용.",
       "2027년부터 토론 평가만 실시. PBS 폐지 출연연 신청 제한."
@@ -153,18 +209,27 @@
       "Z03-P03",
       "Z09-P03",
       "Z08-P04"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "global",
     "title": "핵심 연구 글로벌 매칭형",
     "group": "개인 연구",
     "tag": "국제 협력",
-    "who": "별도 신청 요강 확인",
+    "who": "협력국(기관)에 따라 별도 적용 · 2027년 독일(DFG) 공모 예정",
     "period": "3년",
     "budget": "연 1.5억 원 내외",
-    "count": "20개 내외",
-    "start": "12월",
+    "count": "독일(DFG) 20개 내외",
+    "start": "12월 1일",
     "notes": [
       "내년 1월경 별도 공고 예정. 연구재단 국제협력본부에서 추진.",
       "1인 1과제 원칙의 예외 사업.",
@@ -174,16 +239,25 @@
       "Z03-P04",
       "Z04-P02",
       "Z08-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "총괄 공고 계획 · 별도 공모 예정",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2027년 1월 별도 공고 · 3월 접수 예정"
   },
   {
     "id": "strategy",
     "title": "핵심 연구 전략형",
     "group": "개인 연구",
     "tag": "전략 분야",
-    "who": "국가·사회적 수요 대응 연구 · 세부 지원 자격은 별도 요강 확인",
+    "who": "대학 이공분야 전임·비전임 교원 및 국공립·정부출연연구소 연구원",
     "period": "1~3년",
-    "budget": "연 2억 원 내외",
+    "budget": "연 2억 원 내외 · 직접비 1.6억 원 이내",
     "count": "50개 내외",
     "start": "9월 1일",
     "notes": [
@@ -196,17 +270,26 @@
       "Z03-P08",
       "Z08-P04",
       "Z09-P04"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "총괄 공고 계획 · 별도 공모 예정",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
   },
   {
     "id": "basic-B",
     "title": "기본 연구 유형 B",
     "group": "개인 연구",
     "tag": "기본",
-    "who": "대학 소속 신청자는 전임 교원 · 기관별 세부 자격 확인",
+    "who": "대학 이공분야 전임교원 및 국공립·민간연구소 연구원 · PBS 폐지 출연연 제외",
     "period": "1~5년",
-    "budget": "발표자료 확인 필요",
-    "count": "발표자료 확인 필요",
+    "budget": "연 7천만 원 내외 · 직접비 5,600만 원 이내",
+    "count": "1,200개 내외",
     "start": "9월 1일",
     "notes": [
       "3월경 공고, 4월 접수 예정.",
@@ -219,16 +302,25 @@
       "Z04-P06",
       "Z09-P04",
       "Z09-P05"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "총괄 공고 계획 · 별도 공모 예정",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
   },
   {
     "id": "basic-A",
     "title": "기본 연구 유형 A",
     "group": "개인 연구",
     "tag": "기본",
-    "who": "대학 소속 신청자는 전임 교원 · 기관별 세부 자격 확인",
+    "who": "대학 이공분야 전임교원 및 국공립·민간연구소 연구원 · PBS 폐지 출연연 제외",
     "period": "1~5년",
-    "budget": "연 5천만 원 내외",
+    "budget": "연 5천만 원 내외 · 직접비 4천만 원 이내",
     "count": "750개 내외",
     "start": "9월 1일",
     "notes": [
@@ -242,7 +334,16 @@
       "Z04-P06",
       "Z09-P04",
       "Z09-P05"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "총괄 공고 계획 · 별도 공모 예정",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
   },
   {
     "id": "young-B",
@@ -251,19 +352,29 @@
     "tag": "신진",
     "who": "박사학위 취득 후 7년 이내 또는 만 39세 이하인 국내 대학 이공분야 전임 교원·연구소 정규직 연구원",
     "period": "1~5년",
-    "budget": "연 1.5억 원 내외",
+    "budget": "연 1.5억 원 내외 · 직접비 1.2억 원 이내",
     "count": "460개 내외",
-    "start": "3월",
+    "start": "3월 1일",
     "notes": [
-      "12월 초 접수, 1~2월 평가. 온라인 서면 평가.",
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
       "최초 조교수 임용 이력과 출산·육아휴직 인정 기준을 확인해야 합니다.",
-      "세종 국내 트랙을 5년간 정상 수행하고 종료하는 해에 신청하는 전임 교원은 우대 예정."
+      "세종 국내 트랙을 5년간 정상 수행하고 종료하는 해에 신청하는 전임 교원은 우대 예정.",
+      "최초 조교수 이상 직위로 임용된 지 5년 이내인 국내 대학 전임교원은 학위 취득 후 7년·만 39세 기준을 넘더라도 신청 가능. (공고 p.3)"
     ],
     "refs": [
       "Z03-P05",
       "Z09-P05",
       "Z08-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "young-A",
@@ -272,18 +383,28 @@
     "tag": "신진",
     "who": "박사학위 취득 후 7년 이내 또는 만 39세 이하인 국내 대학 이공분야 전임 교원·연구소 정규직 연구원",
     "period": "1~3년",
-    "budget": "연 1억 원 내외",
+    "budget": "연 1억 원 내외 · 직접비 8천만 원 이내",
     "count": "600개 내외",
-    "start": "3월",
+    "start": "3월 1일",
     "notes": [
-      "12월 초 접수, 1~2월 평가. 온라인 서면 평가.",
-      "최초 조교수 임용 이력과 출산·육아휴직 인정 기준을 확인해야 합니다."
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
+      "최초 조교수 임용 이력과 출산·육아휴직 인정 기준을 확인해야 합니다.",
+      "최초 조교수 이상 직위로 임용된 지 5년 이내인 국내 대학 전임교원은 학위 취득 후 7년·만 39세 기준을 넘더라도 신청 가능. (공고 p.3)"
     ],
     "refs": [
       "Z03-P05",
       "Z09-P05",
       "Z08-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "regional",
@@ -292,41 +413,62 @@
     "tag": "신규 · 지역",
     "who": "박사학위 취득 후 7년 이내 또는 만 39세 이하인 국내 지역 대학 이공분야 전임 교원",
     "period": "10년 · 5+5",
-    "budget": "1차년도 3억 원 · 이후 연 1.5억 원 내외",
-    "count": "100개 계획",
-    "start": "3월",
+    "budget": "1년차 3억 원 내외(직접비 2.4억 이내) · 2~10년차 연 1.5억 원 내외(직접비 1.2억 이내)",
+    "count": "100개 내외",
+    "start": "3월 1일",
     "notes": [
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
       "장비 구축 계획 필수. 1~2차년도에 장비비 3억 원 이상 계상하고 2차년도 종료까지 집행.",
       "수행 중 이직은 국내 지역 대학으로 옮기는 경우에만 계속 수행 가능. 지역 연구소는 해당하지 않음.",
-      "지역 대학 밖으로 이직하면 수행 포기에 따른 제재 가능. 토론 평가."
+      "지역 대학 밖으로 이직하면 수행 포기에 따른 제재 가능. 토론 평가.",
+      "최초 조교수 이상 직위로 임용된 지 5년 이내인 국내 대학 전임교원은 학위 취득 후 7년·만 39세 기준을 넘더라도 신청 가능. (공고 p.3)"
     ],
     "refs": [
       "Z03-P06",
       "Z02-P03",
       "Z09-P06"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "infra",
     "title": "신진 연구자 인프라 지원",
     "group": "개인 연구",
     "tag": "장비·인프라",
-    "who": "별도 신청 요강 확인",
-    "period": "별도 공고 확인",
-    "budget": "별도 공고 확인",
+    "who": "박사학위 취득 후 7년 이내 또는 만 39세 이하인 국내 대학 이공분야 전임교원 · 최초 조교수 이상 임용 후 5년 이내도 가능",
+    "period": "1년",
+    "budget": "1~5억 원",
     "count": "70개 내외 예정",
     "start": "9월 1일",
     "notes": [
       "지역 장기 연구 미선정자도 도전할 수 있도록 개시 시기를 하반기로 조정.",
       "3월 별도 공고 예정. 1인 1과제 원칙의 예외 사업.",
-      "1차 토론·2차 발표 평가. 연구시설·장비 통합관리 지정 기관 가점 안내."
+      "1차 토론·2차 발표 평가. 연구시설·장비 통합관리 지정 기관 가점 안내.",
+      "본 사업 기수혜자 및 지역장기연구 수혜자는 신청 불가. (공고 p.3)"
     ],
     "refs": [
       "Z03-P05",
       "Z04-P02",
       "Z04-P06",
       "Z08-P02"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "총괄 공고 계획 · 별도 공모 예정",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2027년 3월 별도 공고 · 4월 접수 예정"
   },
   {
     "id": "sejong-domestic",
@@ -335,19 +477,30 @@
     "tag": "펠로우십",
     "who": "국내 대학 박사학위 취득 후 7년 이내 또는 만 39세 이하 · 대학 비전임 교원 또는 연구소 비정규직 등",
     "period": "5년",
-    "budget": "트랙별 금액 확인 필요",
+    "budget": "연 1.3억 원 내외 · 직접비 1억 원 내외",
     "count": "170개 내외",
     "start": "3월 1일",
     "notes": [
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
       "소속이 없으면 한국연구재단을 주관기관으로 신청할 수 있으나, 개시 후 6개월 이내 주관기관 확정 및 심의 필요.",
       "국외 파견·체류는 최대 1년 원칙. 복귀·유치 트랙의 예외 조건은 요강 확인.",
-      "PBS 폐지 출연연 신청 제한. 두 트랙 모두 온라인 서면 평가."
+      "PBS 폐지 출연연 신청 제한. 두 트랙 모두 온라인 서면 평가.",
+      "대한민국 국적 소지자만 신청 가능. (공고 p.3)"
     ],
     "refs": [
       "Z03-P07",
       "Z04-P04",
       "Z09-P07"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "sejong-return",
@@ -356,27 +509,38 @@
     "tag": "펠로우십",
     "who": "해외 대학 박사학위 취득 후 7년 이내 또는 만 39세 이하 · 대학 비전임 교원 또는 연구소 비정규직 등",
     "period": "5년",
-    "budget": "트랙별 금액 확인 필요",
+    "budget": "연 1.3억 원 내외 · 직접비 1억 원 내외",
     "count": "200개 내외",
     "start": "9월 1일",
     "notes": [
+      "접수: 2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지 (공고 p.9)",
       "소속이 없으면 한국연구재단을 주관기관으로 신청할 수 있으나, 개시 전 주관기관 확정 및 심의 필요.",
       "국외 파견·체류는 최대 1년 원칙. 복귀·유치 트랙의 예외 조건은 요강 확인.",
-      "PBS 폐지 출연연 신청 제한. 두 트랙 모두 온라인 서면 평가."
+      "PBS 폐지 출연연 신청 제한. 두 트랙 모두 온라인 서면 평가.",
+      "외국 국적자는 국내 대학 박사학위 취득자도 해당 자격을 충족하면 신청 가능. (공고 p.3)"
     ],
     "refs": [
       "Z03-P07",
       "Z04-P04",
       "Z09-P07"
-    ]
+    ],
+    "verified_on": "2026-11-12",
+    "source_status": "공고 기준",
+    "official_sources": [
+      {
+        "label": "과기정통부 공고 제2026-1069호 · 지원표 p.1–4 / 접수 p.9",
+        "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024760&ancmPrg="
+      }
+    ],
+    "application": "2026.11.25. 14:00 ~ 12.8. 18:00 · 기관 승인 12.10. 18:00까지"
   },
   {
     "id": "nrl",
     "title": "국가연구소",
     "group": "집단 연구",
     "tag": "NRL",
-    "who": "대학 소속 KCI 등록 부설 연구소 · 세부 요건 확인",
-    "period": "10년 · 3단계",
+    "who": "고등교육법 제2조 대학 소속 KCI 등록 이공분야 대학부설연구소 · 특별법 설립 대학 제외(국립대학법인 포함)",
+    "period": "10년 · 3+4+3",
     "budget": "연 100억 원 · 2027년 6개월 50억 원",
     "count": "3개 내외",
     "start": "2027년 7월",
@@ -389,16 +553,25 @@
       "Z05-P01",
       "Z05-P04",
       "Z10-P03"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.48 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=48"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "frc-x",
     "title": "미래연구센터 목표지향형 · FRC-X",
     "group": "집단 연구",
     "tag": "미래연구센터",
-    "who": "대학 우수 연구 그룹 · 세부 자격 확인",
+    "who": "이공계 분야 대학원이 설치된 대학의 연구그룹 · 인원 수 제한 없음",
     "period": "7년 · 5+2",
-    "budget": "15억 원 이내",
+    "budget": "연 15억 원 이내 · 간접비 포함",
     "count": "4개 내외",
     "start": "2027년 8월 · 후속은 별도",
     "notes": [
@@ -412,16 +585,25 @@
       "Z08-P05",
       "Z10-P02",
       "Z10-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.49 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=49"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "frc-s",
     "title": "미래연구센터 탐구형 · FRC-S",
     "group": "집단 연구",
     "tag": "미래연구센터",
-    "who": "대학 연구 그룹 · 대학원 설치 요건 확인",
+    "who": "이공계 분야 대학원이 설치된 대학의 연구자 8인 이상 연구그룹",
     "period": "7년 · 5+2",
-    "budget": "18억 원 이내",
+    "budget": "연 18억 원 이내 · 간접비 포함",
     "count": "신규 2개 + 후속 1개 내외",
     "start": "2027년 8월 · 후속은 별도",
     "notes": [
@@ -435,16 +617,25 @@
       "Z08-P05",
       "Z10-P02",
       "Z10-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.49 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=49"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "frc-e",
     "title": "미래연구센터 혁신형 · FRC-E",
     "group": "집단 연구",
     "tag": "미래연구센터",
-    "who": "대학 연구 그룹 · 대학원 설치 요건 확인",
+    "who": "이공계 분야 대학원이 설치된 대학의 연구자 8인 이상 연구그룹",
     "period": "7년 · 5+2",
-    "budget": "22억 원 이내",
+    "budget": "연 22억 원 이내 · 간접비 포함",
     "count": "신규 2개 + 후속 1개 내외",
     "start": "2027년 8월 · 후속은 별도",
     "notes": [
@@ -458,16 +649,25 @@
       "Z08-P05",
       "Z10-P02",
       "Z10-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.49 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=49"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "frc-m",
     "title": "미래연구센터 기초의과학 트랙",
     "group": "집단 연구",
     "tag": "미래연구센터",
-    "who": "기초의과학 분야 대학원이 설치된 대학",
+    "who": "기초의과학(의·치의·한의·약학) 대학원이 설치·운영되는 대학의 연구자 8인 이상 연구그룹",
     "period": "7년 · 5+2",
-    "budget": "15억 원 이내",
+    "budget": "연 15억 원 이내 · 간접비 포함",
     "count": "4개 내외",
     "start": "2027년 8월 · 후속은 별도",
     "notes": [
@@ -481,16 +681,25 @@
       "Z08-P05",
       "Z10-P02",
       "Z10-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.49 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=49"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "frc-r",
     "title": "미래연구센터 지역혁신 트랙",
     "group": "집단 연구",
     "tag": "미래연구센터",
-    "who": "이공계 대학원이 설치된 지역 대학",
+    "who": "이공계 분야 대학원이 설치된 지역대학의 연구자 8인 이내 연구그룹",
     "period": "7년 · 5+2",
-    "budget": "15억 원 이내",
+    "budget": "연 15억 원 이내 · 간접비 포함",
     "count": "5개 내외",
     "start": "2027년 8월 · 후속은 별도",
     "notes": [
@@ -504,7 +713,16 @@
       "Z08-P05",
       "Z10-P02",
       "Z10-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.49 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=49"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "lab-deep",
@@ -512,21 +730,31 @@
     "group": "집단 연구",
     "tag": "소규모 공동 연구",
     "who": "연구책임자 포함 3~4명 공동 연구진",
-    "period": "3년",
-    "budget": "연 5억 원 이내",
+    "period": "3년 · 2027.8.1.~2030.7.31.",
+    "budget": "연 5억 원 이내 · 간접비 포함",
     "count": "84개 내외",
-    "start": "2027년 8월",
+    "start": "2027년 8월 1일",
     "notes": [
       "신진 연구 인력 1명 이상, 박사후연구원 1명 이상 필수.",
       "2027년부터 1차 토론·2차 발표 평가. 연구진 변경 시 불이익 확인.",
-      "지역 대학에 30% 수준 할당 계획."
+      "지역 대학에 30% 수준 할당 계획.",
+      "참여연구원(공동) 중 연구책임자와 동일 기관 소속 2명 이상 포함. (공식 배포자료 p.50)"
     ],
     "refs": [
       "Z05-P03",
       "Z05-P04",
       "Z08-P05",
       "Z10-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.50 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=50"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "lab-innovation",
@@ -534,10 +762,10 @@
     "group": "집단 연구",
     "tag": "소규모 공동 연구",
     "who": "연구책임자 포함 3~4명 공동 연구진",
-    "period": "3년",
-    "budget": "연 5억 원 이내",
-    "count": "36·37개로 안내 상충 · 공고 확인",
-    "start": "2027년 8월",
+    "period": "3년 · 2027.8.1.~2030.7.31.",
+    "budget": "연 5억 원 이내 · 간접비 포함",
+    "count": "36개 내외",
+    "start": "2027년 8월 1일",
     "notes": [
       "신진 연구 인력 2명 이상, 박사후연구원 1명 이상 필수.",
       "2027년부터 1차 토론·2차 발표 평가. 연구진 변경 시 불이익 확인.",
@@ -548,53 +776,79 @@
       "Z05-P04",
       "Z08-P05",
       "Z10-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.50 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=50"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "masters",
     "title": "석사과정 연구장려금",
     "group": "교육부",
     "tag": "대학원생",
-    "who": "국내 대학원 전일제 석사과정 등 · 통합과정 학기 요건 확인",
+    "who": "국내 대학원 전일제 석사과정 등 · 통합과정 학기 요건 확인 · 대한민국 국적자",
     "period": "1년",
     "budget": "연 1,200만 원",
     "count": "1,044개",
     "start": "9월 1일",
     "notes": [
       "학위논문 연구 지원. 연구수당 계상 불가.",
-      "통합과정 학기 요건은 자막이 불명확하므로 요강 확인.",
       "전문 평가단 토론 평가 예정."
     ],
     "refs": [
       "Z07-P01",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.59 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=59"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "doctoral",
     "title": "박사과정 연구장려금",
     "group": "교육부",
     "tag": "대학원생",
-    "who": "국내 대학원 전일제 박사과정 등 · 통합과정·수료생 범위 확인",
+    "who": "국내 대학원 전일제 박사과정 등 · 통합과정·수료생 범위 확인 · 대한민국 국적자",
     "period": "1~2년",
     "budget": "연 2,500만 원",
     "count": "782개",
     "start": "9월 1일",
     "notes": [
       "인건비 1천만 원 이상 계상 필수.",
-      "총예산과 세부 신청 자격은 공고 확인. 온라인 평가 예정."
+      "세부 신청 자격은 공고 확인. 온라인 평가 예정."
     ],
     "refs": [
       "Z07-P01",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.59 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=59"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "postdoc-kr",
     "title": "박사후 국내 연수",
     "group": "교육부",
     "tag": "박사후 성장 지원",
-    "who": "국내 대학 박사학위 취득 후 5년 이내",
+    "who": "국내외 대학 박사학위 취득 후 5년 이내",
     "period": "1~3년",
     "budget": "연 6천만 원",
     "count": "70개",
@@ -606,14 +860,23 @@
     "refs": [
       "Z07-P02",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.60 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=60"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "postdoc-overseas",
     "title": "박사후 국외 연수",
     "group": "교육부",
     "tag": "박사후 성장 지원",
-    "who": "국내외 대학 박사학위 취득 후 5년 이내",
+    "who": "국내 대학 박사학위 취득 후 5년 이내",
     "period": "1년",
     "budget": "연 6천만 원",
     "count": "80개",
@@ -625,7 +888,16 @@
     "refs": [
       "Z07-P02",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.60 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=60"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "inclusive",
@@ -634,7 +906,7 @@
     "tag": "학술 생태계",
     "who": "대학 비전임 교원·박사후연구원 단독 연구",
     "period": "3년",
-    "budget": "과제당 금액 확인 필요",
+    "budget": "연 6천만 원",
     "count": "800개",
     "start": "9월 1일",
     "notes": [
@@ -644,7 +916,16 @@
     "refs": [
       "Z07-P03",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.61 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=61"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "future",
@@ -663,7 +944,16 @@
     "refs": [
       "Z07-P03",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.61 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=61"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "protected",
@@ -672,8 +962,8 @@
     "tag": "학문 균형",
     "who": "대학 소속 연구자의 공동·단독 연구",
     "period": "5년",
-    "budget": "단독 1억 원 · 공동 금액 확인 필요",
-    "count": "35개",
+    "budget": "공동 연 2.8억 원 · 단독 연 1억 원",
+    "count": "15개 내외",
     "start": "9월 1일",
     "notes": [
       "국가 차원의 보호·육성이 필요한 학문 분야 지원.",
@@ -682,7 +972,16 @@
     "refs": [
       "Z07-P03",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.61 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=61"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "glocal-hub",
@@ -690,9 +989,9 @@
     "group": "교육부",
     "tag": "지역 혁신",
     "who": "대학 부설 연구소",
-    "period": "9년",
-    "budget": "금액 확인 필요",
-    "count": "거점형 3개 계획",
+    "period": "9년 · 3+3+3",
+    "budget": "연 15억 원",
+    "count": "두 유형 합계 5개 내외 · 유형별 배분은 개별 공고 확인",
     "start": "9월 1일",
     "notes": [
       "두 유형 합계 신규 5개 내외, 총 42억 5천만 원 안내. 유형별 선정 수는 변동 가능.",
@@ -702,7 +1001,16 @@
       "Z06-P04",
       "Z07-P04",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.63 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=63"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "glocal-consortium",
@@ -710,9 +1018,9 @@
     "group": "교육부",
     "tag": "지역 혁신",
     "who": "대학 부설 연구소",
-    "period": "9년",
+    "period": "9년 · 3+3+3",
     "budget": "연 24억 원",
-    "count": "컨소시엄형 2개 계획",
+    "count": "두 유형 합계 5개 내외 · 유형별 배분은 개별 공고 확인",
     "start": "9월 1일",
     "notes": [
       "두 유형 합계 신규 5개 내외, 총 42억 5천만 원 안내. 유형별 선정 수는 변동 가능.",
@@ -722,18 +1030,27 @@
       "Z06-P04",
       "Z07-P04",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.63 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=63"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "glocal-rd",
     "title": "글로컬 R&D",
     "group": "교육부",
     "tag": "지역 혁신",
-    "who": "비수도권 대학 연구자 중심",
-    "period": "별도 공고 확인",
-    "budget": "별도 공고 확인",
+    "who": "비수도권 대학 소속 연구자의 공동 연구",
+    "period": "3년",
+    "budget": "연 1.5억 원 · 국제협업 수행 시 연 5천만 원 추가",
     "count": "신규 112개 계획",
-    "start": "별도 공고 확인",
+    "start": "9월 1일",
     "notes": [
       "지역 기반 기초연구와 국제 협업 지원.",
       "온라인 평가 예정."
@@ -742,18 +1059,27 @@
       "Z06-P03",
       "Z06-P04",
       "Z08-P06"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.63 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=63"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "glamp",
     "title": "G-LAMP",
     "group": "교육부",
     "tag": "연구 기반",
-    "who": "사업별 세부 자격 확인",
-    "period": "별도 계획 확인",
-    "budget": "별도 계획 확인",
-    "count": "신규 규모 확인 필요",
-    "start": "별도 계획 확인",
+    "who": "2027년 지원 대상 별도 안내 예정",
+    "period": "2027년 별도 안내 예정",
+    "budget": "2027년 별도 안내 예정",
+    "count": "2027년 별도 안내 예정",
+    "start": "2027년 별도 안내 예정",
     "notes": [
       "대학 기초연구소 지원. 차년도 별도 계획 수립 후 안내."
     ],
@@ -761,77 +1087,124 @@
       "Z06-P03",
       "Z06-P04",
       "Z07-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.62 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=62"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "core-center",
     "title": "핵심연구지원센터",
     "group": "교육부",
     "tag": "연구 기반",
-    "who": "사업별 세부 자격 확인",
-    "period": "별도 계획 확인",
-    "budget": "별도 계획 확인",
-    "count": "신규·후속 합계 15개 계획",
-    "start": "별도 계획 확인",
+    "who": "신규: 대학부설연구소·대학공동실험실습관(4대 과기원 제외) / 후속: 종료 후 3년차 이하 핵심연구지원센터",
+    "period": "신규·도약형 6년(3+3) / 자립형 3년",
+    "budget": "신규 연 5억 원 · 도약형 연 7억 원 · 자립형 연 2억 원 내외",
+    "count": "신규조성 5개 내외 · 후속 10개 내외",
+    "start": "6월 1일",
     "notes": [
       "공동 활용 인프라·첨단 장비와 전문 인력 지원. 내년 초 별도 설명회 예정."
     ],
     "refs": [
       "Z06-P03",
       "Z06-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.62 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=62"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "share",
-    "title": "대학 장비·시설 통합관리 · 셰어",
+    "title": "대학 연구지원 기반구축 · SHARE",
     "group": "교육부",
     "tag": "연구 기반",
-    "who": "사업별 세부 자격 확인",
-    "period": "별도 계획 확인",
-    "budget": "별도 계획 확인",
-    "count": "3개 계획",
-    "start": "별도 계획 확인",
+    "who": "고등교육법 제2조의 대학 · 4대 과기원 제외",
+    "period": "7년 · 2+3+2",
+    "budget": "대형 연 50억 원 · 중형 연 30억 원 · 소형 연 10억 원 내외",
+    "count": "3개 내외",
+    "start": "9월 1일",
     "notes": [
-      "대학 장비·시설 거버넌스와 통합 관리 체계 구축. 세부 사업명·지원 조건은 별도 공고 확인."
+      "대학 단위 연구시설·장비 통합관리 체계 구축을 지원.",
+      "2027년 사업 시행계획 수립 시 변동 가능. 사업별 공고에서 최종 지원 조건 확정."
     ],
     "refs": [
       "Z06-P03",
       "Z06-P04"
-    ]
+    ],
+    "source_status": "공식 발표자료 계획",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.62 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=62"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "개별 공고 접수 일정 확인 전"
   },
   {
     "id": "university-lab",
     "title": "대학중점연구소",
     "group": "교육부",
     "tag": "연구 기반",
-    "who": "사업별 세부 자격 확인",
-    "period": "별도 계획 확인",
-    "budget": "별도 계획 확인",
+    "who": "기존 선정 과제 수행자",
+    "period": "계속 과제별 협약 기간",
+    "budget": "계속 과제별 협약 금액",
     "count": "계속 과제만 지원",
-    "start": "별도 계획 확인",
+    "start": "신규 개시 없음 · 계속 과제 협약 기준",
     "notes": [
       "일몰에 따라 신규 선정 없이 기존 과제를 지원한다고 안내."
     ],
     "refs": [
       "Z06-P03",
       "Z06-P04"
-    ]
+    ],
+    "source_status": "영상 안내 · 계속 과제 지원",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.56 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=56"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "신규 모집 없음",
+    "source_note": "사업 분류는 공식 자료 p.56, 계속 과제만 지원한다는 안내는 아래 영상·대본 기준입니다. 금액·기간은 기존 협약에 따릅니다."
   },
   {
     "id": "integrated",
     "title": "통합 기초 지원",
     "group": "교육부",
     "tag": "연구 기반",
-    "who": "사업별 세부 자격 확인",
-    "period": "별도 계획 확인",
-    "budget": "별도 계획 확인",
+    "who": "기존 선정 과제 수행자",
+    "period": "계속 과제별 협약 기간",
+    "budget": "계속 과제별 협약 금액",
     "count": "계속 사업만 지원",
-    "start": "별도 계획 확인",
+    "start": "신규 개시 없음 · 계속 과제 협약 기준",
     "notes": [
       "일몰에 따라 계속 사업만 지원. 예산 661억 원 안내."
     ],
     "refs": [
       "Z06-P03"
-    ]
+    ],
+    "source_status": "계속 과제 지원 · 신규 모집 없음",
+    "official_sources": [
+      {
+        "label": "한국연구재단 공식 배포자료 p.57 (2026.11.)",
+        "url": "https://innotown.kumoh.ac.kr/iacf/sub06_14.do?articleNo=581888&attachNo=169512&mode=download#page=57"
+      }
+    ],
+    "verified_on": "2026-11-12",
+    "application": "신규 모집 없음"
   }
 ]
